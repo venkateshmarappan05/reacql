@@ -1,0 +1,19 @@
+.content {
+    padding: 1.5rem!important;
+}
+.right{
+    float: right;
+}
+.form-control{
+    width:40% !important;
+}
+.card-subtitle, .card-title{
+    position: absolute;
+    top: 20px;
+}
+.messages{
+    color:red;
+}
+label {
+    font-size: medium;
+}
